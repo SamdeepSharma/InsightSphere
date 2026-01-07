@@ -239,7 +239,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Live Demo**: [ghost-note.vercel.app](https://ghost-note.vercel.app/)
 - **Issues**: [GitHub Issues](https://github.com/samdeepsharma/ghost-note/issues)
-- **Email**: [your-email@example.com](mailto:services.ghost.note@gmail.com)
+- **Email**: [services.ghost.note@gmail.com](mailto:services.ghost.note@gmail.com)
 
 ---
 
